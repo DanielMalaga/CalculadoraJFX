@@ -1,5 +1,5 @@
 
-package calculatorjavafx;
+package controller;
 
 import java.net.URL;
 import java.util.ResourceBundle;

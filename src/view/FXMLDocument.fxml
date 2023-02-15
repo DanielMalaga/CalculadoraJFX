@@ -16,7 +16,7 @@
 	prefWidth="420.0" style="-fx-background-color: black;"
 	stylesheets="@style.css" xmlns="http://javafx.com/javafx/19"
 	xmlns:fx="http://javafx.com/fxml/1"
-	fx:controller="calculatorjavafx.FXMLDocumentController">
+	fx:controller="controller.FXMLDocumentController">
 	<children>
 		<Label alignment="CENTER" layoutX="10.0" prefHeight="50.0"
 			prefWidth="400.0" text="Calculadora CESUR" textAlignment="CENTER">
